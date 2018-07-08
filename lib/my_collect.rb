@@ -7,7 +7,7 @@ i = 0
   array
 end
 
-my_collect(array1) do
-  |name| puts name.split(" ").first
-end
+#my_collect(array1) do
+#  |name| puts name.split(" ").first
+#end
 
